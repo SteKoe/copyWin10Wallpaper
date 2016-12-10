@@ -1,0 +1,11 @@
+{
+  "name": "copyWin10Wallpaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Stephan Koeninger <mail@stekoe.de>",
+  "dependencies": {
+    "image-size": "^0.5.0",
+    "nconf": "^0.8.4"
+  }
+}
